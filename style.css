@@ -1,0 +1,112 @@
+h1 {
+  color:  #446e5c;
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px;
+  line-height: 20px;
+  text-align: center;
+}
+
+h2 {
+  color: grey;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: lighter;
+  text-align: center;
+}
+
+h3 {
+  color: grey;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  line-height: 20px;
+}
+
+p {
+  color: grey;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+body {
+  background-color: white;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  background: url("images/what-the-hex.png");
+}
+
+a {
+  color: #606470;
+  text-decoration: none;
+  font-size
+}
+
+a:hover {
+  color: #446e5c;
+  border-radius: 10%;
+}
+
+.container {
+  width: 550px;   /* This sets the width */
+  margin: 0 auto; /* This automatically sets left/right margins */
+  border-radius: 5px;
+}
+
+.card {
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.15);
+  margin: 20px;
+  background-color: #eeeeee;
+  padding: 15px;
+  text-align: center;
+}
+
+.image-movie {
+  width: 100px;
+  margin: 20px;
+}
+
+.image-circle {
+  border-radius: 50%;
+  width: 100px;
+}
+
+.button {
+    background-color: #446e5c; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 14px;
+}
+
+.button:hover {
+    background-color: #446e5c; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 15px;
+    box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.8);
+}
+
+.social > li {
+  display: inline-block;
+  padding: 20px 20px;
+  height: : 30px;
+}
+
+.social {
+  padding-left: 0;
+}
+
+.social i {
+  font-size: 35px;
+}
