@@ -1,3 +1,18 @@
+#sidebar {
+    background-color: #384047;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    width: 120px;
+    text-align: center;
+}
+
+#sidebar ul{
+  list-style-type: none;
+  padding-left: 0;
+  font-size: 40px;
+}
 h1 {
   color:  #446e5c;
   font-family: 'Roboto', sans-serif;
